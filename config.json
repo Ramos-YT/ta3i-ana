@@ -1,0 +1,20 @@
+{
+  "default_prefix": "+",
+  "owners": ["756950338866774036"],
+  "timeout": 300000,
+  "webhook": "Qzo--AWqxWiGQMdLebyXg0x_9Plx7Q7MODFu-egf-9D9IZAyeMTHNVjl7-NX8PKlYuIj",
+  "webhook1": "Qzo--AWqxWiGQMdLebyXg0x_9Plx7Q7MODFu-egf-9D9IZAyeMTHNVjl7-NX8PKlYuIj",
+  "invite_link": "https://discord.com/api/oauth2/authorize?client_id=885944611456024616&permissions=8&scope=bot",
+  "error_logs": "841865837228458034",
+  "success_logs": "842020492310347777",
+  "disable_fetching": false,
+  "AME_API":"0f227371b2ca3e34eef0405ae054197c61e46f77e335bbda7c58e340513d21dedccae7d69a26a33effa2c86f0a5a87a55562f72a078fe0dfc45236a82767870c",
+  
+  "Giveaway_Options": {
+    "giveawayManagerID": "",
+    "giveawayRoleID": "",
+    "giveawayMention": false,
+    "showMention": true,
+    "hostedBy": true
+    }
+}
